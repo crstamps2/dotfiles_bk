@@ -91,11 +91,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1744681533,
-        "narHash": "sha256-/AKZyQO8jqcngvFVAEhjbgUKw2i1Rl58NdQPh33lt5Q=",
+        "lastModified": 1744743099,
+        "narHash": "sha256-kmpCOT+Lq26Jt1ZdzMj1M5dpg+Vz9wiY4/HmQzxXdHo=",
         "owner": "ToyVo",
         "repo": "nh_darwin",
-        "rev": "8f9bba4568c8593f24b7c12f298f6aad17f10018",
+        "rev": "658f427d175514f72a22276bb42445afe5be71f5",
         "type": "github"
       },
       "original": {
