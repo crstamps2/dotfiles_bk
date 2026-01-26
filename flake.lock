@@ -210,32 +210,16 @@
     },
     "nixpkgs-unstable": {
       "locked": {
-        "lastModified": 1769298235,
-        "narHash": "sha256-6LYNeTHX7779CiR4oqhG4C6u2NIUeZUOfITHgywaRlQ=",
+        "lastModified": 1769330179,
+        "narHash": "sha256-yxgb4AmkVHY5OOBrC79Vv6EVd4QZEotqv+6jcvA212M=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "26b0093bc977081dc7653175a3fadab11e07bed7",
+        "rev": "48698d12cc10555a4f3e3222d9c669b884a49dfe",
         "type": "github"
       },
       "original": {
         "owner": "nixos",
         "ref": "nixpkgs-unstable",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    "nixpkgs-unstable_2": {
-      "locked": {
-        "lastModified": 1769170682,
-        "narHash": "sha256-oMmN1lVQU0F0W2k6OI3bgdzp2YOHWYUAw79qzDSjenU=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "c5296fdd05cfa2c187990dd909864da9658df755",
-        "type": "github"
-      },
-      "original": {
-        "owner": "NixOS",
-        "ref": "nixos-unstable",
         "repo": "nixpkgs",
         "type": "github"
       }
@@ -280,15 +264,14 @@
         "flake-compat": "flake-compat",
         "nixpkgs-libvncserver": "nixpkgs-libvncserver",
         "nixpkgs-stable": "nixpkgs-stable",
-        "nixpkgs-unstable": "nixpkgs-unstable_2",
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1769097683,
-        "narHash": "sha256-YVIRCubcYDDBSdaig95A66ZBy5NiopZCiHkYZnYXXEw=",
+        "lastModified": 1769352489,
+        "narHash": "sha256-+eFH8gMuNaf7QlFLpavdSljqrXj1uwXA5Gjyp9dZduc=",
         "owner": "SaumonNet",
         "repo": "proxmox-nixos",
-        "rev": "55ba59d5a4ef22251d76c73f04940cb8a5847cba",
+        "rev": "21e34e05380f451b257e3d2c5fe7da67c975cfaf",
         "type": "github"
       },
       "original": {
