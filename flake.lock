@@ -283,11 +283,11 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1788008982,
-        "narHash": "sha256-as9VXaqYCEMptluj6N0ugwZ4WWBw/c3jBrYwisoHmqs=",
+        "lastModified": 1789217472,
+        "narHash": "sha256-5+iviW11rRXppx5/oTkErbauwk+9e3XhENhdKTG6QJI=",
         "owner": "SaumonNet",
         "repo": "proxmox-nixos",
-        "rev": "89bf7bb1439a5dc6f8210b7178cbd76421a178e2",
+        "rev": "fc773dcf59bf188fcc806c78af635e5917ca2983",
         "type": "github"
       },
       "original": {
